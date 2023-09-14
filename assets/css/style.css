@@ -4,4 +4,6 @@ body{
 .container{
     background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
     border-radius: 8px;
+    height: fit-content !important;
 }
+
